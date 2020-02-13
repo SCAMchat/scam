@@ -25,6 +25,6 @@ We have created some examples for you:
 For your convenience, we have created a SCAM Server that is implemented in Python3.
 It is designed with customization in mind.
 
-### [SCAM Client](https://github.com/9hax/scam-client/)
+### [SCAM Client](https://github.com/9hax/scam-client-java/)
 
 Here is a SCAM Client, written in Java.
