@@ -5,15 +5,12 @@ It focuses on transporting messages to and from a server based chatroom that is 
 
 SCAM messages are not encrypted by default, but encrypted messages are supported by the protocol.
 
-## URI Formatting
+## Specification (SCAM RfC)
 
-URIs that point to a SCAM chatroom are very easy to understand and parse.
-The default layout of a URI follows a HTTP URL layout. 
+There is a full specification for SCAM. You can find and comment on it here:
 
-In order to make the following URI valid, replace [HOST] with the hostname, DNS address or IP of the server.
-Also replace the [CHAT] part witht the name of the chatroom you are trying to join.
+https://docs.google.com/document/d/1jR6KnjTZ2AGehg9Ist5YlWYo_jp5MLeJSfCaKnx8xT0/edit?usp=sharing
 
-    scam://[HOST]/[CHAT]
 
 ## SCAM examples
 
