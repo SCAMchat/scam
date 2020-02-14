@@ -9,7 +9,8 @@ SCAM messages are not encrypted by default, but encrypted messages are supported
 
 There is a full specification for SCAM. You can find and comment on it here:
 
-https://docs.google.com/document/d/1jR6KnjTZ2AGehg9Ist5YlWYo_jp5MLeJSfCaKnx8xT0/edit?usp=sharing
+
+[![Open Google Docs Document](https://img.shields.io/badge/documentation-Open%20Google%20Docs-brightgreen)](https://docs.google.com/document/d/1jR6KnjTZ2AGehg9Ist5YlWYo_jp5MLeJSfCaKnx8xT0/edit?usp=sharing)
 
 
 ## SCAM examples
@@ -25,3 +26,4 @@ It is designed with customization in mind.
 ### [SCAM Client](https://github.com/9hax/scam-client-java/)
 
 Here is a SCAM Client, written in Java.
+aaaaaa
