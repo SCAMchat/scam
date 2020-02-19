@@ -7,10 +7,10 @@ SCAM messages are not encrypted by default, but encrypted messages are supported
 
 ## Specification (SCAM RfC)
 
-There is a full specification for SCAM. You can find and comment on it here:
+There is a full specification document for SCAM. You can find and comment on it here:
 
 
-[![Open Google Docs Document](https://img.shields.io/badge/documentation-Open%20Google%20Docs-brightgreen)](https://docs.google.com/document/d/1jR6KnjTZ2AGehg9Ist5YlWYo_jp5MLeJSfCaKnx8xT0/edit?usp=sharing)
+[![Open RfC on Google Docs](https://img.shields.io/badge/documentation-Open%20Google%20Docs-brightgreen)](https://docs.google.com/document/d/1jR6KnjTZ2AGehg9Ist5YlWYo_jp5MLeJSfCaKnx8xT0/edit?usp=sharing)
 
 
 ## SCAM examples
